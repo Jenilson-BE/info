@@ -5,23 +5,22 @@ export const portfolioData = {
   /**
    * User's personal and contact information.
    */
-  userData: {
-    name: "Karthikeyan T",
-    shortName: "Karthikeyan",
+ userData: {
+    name: "Jenilson J",
+    shortName: "jenilson",
     title: "Full-Stack Developer",
-    email: "karthikeyanfsd@gmail.com",
+    email: "j.jenilson15@gmail.com",
   },
 
   /**
    * Social media and professional links.
    */
   links: {
-    instagram: "https://instagram.com/karthi_fsd",
+    instagram: "https://www.instagram.com/jenil_fsd?igsh=dWdvMTdjbXB3ZGdl",
     facebook: "#", // Use "#" if you don't have a link
-    github: "https://github.com/Karthikeyan-BE",
-    linkedin: "https://linkedin.com/in/karthikeyan-t-82b2992a7",
-  },
-
+    github: "https://github.com/Jenilson-BE/",
+    linkedin: "https://www.linkedin.com/in/jenilson-j-ba8b74317/",
+  },
   /**
    * Asset paths.
    */
@@ -30,7 +29,7 @@ export const portfolioData = {
     about: "./assets/about.png",
     resumeImg: "./assets/resume.jpg",
     resumePdf: "./assets/Resume/Karthikeyan_CV.pdf",
-    resumeDownloadName: "Karthikeyan_CV.pdf",
+    resumeDownloadName: "Jenilson_CV.pdf",
   },
 
   /**
