@@ -28,7 +28,7 @@ export const portfolioData = {
     hero: "./assets/hero.png",
     about: "./assets/about.png",
     resumeImg: "./assets/resume.jpg",
-    resumePdf: "./assets/Resume/Karthikeyan_CV.pdf",
+    resumePdf: "./assets/Resume/JENIL_CV.pdf",
     resumeDownloadName: "Jenilson_CV.pdf",
   },
 
